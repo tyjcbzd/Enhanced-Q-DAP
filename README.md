@@ -7,3 +7,9 @@ The official code for article "Enhanced Q-Learning for Grid Navigation: Directio
 - Our draft was submitted to journal [Informatics and Automation](https://ia.spcras.ru/index.php)
 
 ---
+
+**File description:**
+```
+maps - all randomly generated maps (json files)
+
+```
