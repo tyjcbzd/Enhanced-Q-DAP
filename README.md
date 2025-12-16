@@ -13,3 +13,11 @@ The official code for article "Enhanced Q-Learning for Grid Navigation: Directio
 maps - all randomly generated maps (json files)
 
 ```
+
+## Visualization of maps
+Here we provide visualization comparison of grid maps with different density of obstacles.
+<p align="center">
+  <img src="imgs/map_den10.png" width="300" />
+  <img src="imgs/map_den25.png" width="300" />
+  <img src="imgs/map_den40.png" width="300" />
+</p>
