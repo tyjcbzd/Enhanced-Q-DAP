@@ -10,7 +10,7 @@ The official code for article "Enhanced Q-Learning for Grid Navigation: Directio
 
 **File description:**
 ```
-maps - all randomly generated maps (json files)
+new_maps - all randomly generated maps (json files)
 
 ```
 
